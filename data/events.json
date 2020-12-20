@@ -1,0 +1,1 @@
+[null,{"name":"NewEvent","temp":"10","event-type":"3","actions":[{"gameName":"by Tuchan","gameLink":"","name":"Set Bot Game"},{"time":"3","measurement":"1","name":"Wait"},{"gameName":"$check to check the URL","gameLink":"","name":"Set Bot Game"}]}]
